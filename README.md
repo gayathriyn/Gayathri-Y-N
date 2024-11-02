@@ -1,5 +1,5 @@
 #                                                          Hi👋 I'm GAYATHRI Y N
-🔭 I’m currently working on CyberX<br>🤖 check out [ My Resume](file:///C:/Users/gayathri/Downloads/Gayathri%20Y%20N%20Resume%20(1).pdf) <br>🖥️ I’m currently learning Kotlin and App development<br>💬 Ask me about Programming,App devlopment and Cyber security<br> Reach me out at gayathriyn020@gmail.com
+🔭 I’m currently working on CyberX<br>🤖 check out [ My Resume](file:///C:/Users/gayathri/Downloads/Gayathri%20Y%20N%20Resume%20(1).pdf) <br>🖥️ I’m currently learning  App development<br>💬 Ask me about Programming,App devlopment and Cyber security<br> Reach me out at gayathriyn020@gmail.com
 
 
 ## 🌐 Socials:
